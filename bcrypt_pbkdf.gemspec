@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
 
   s.add_development_dependency 'rake-compiler', '~> 1.2.5'
-  s.add_development_dependency 'minitest', '~> 5'
+  s.add_development_dependency 'minitest', '~> 6'
   s.add_development_dependency 'openssl', '~> 3'
   s.add_development_dependency 'rdoc', '~> 6'
   s.add_development_dependency 'rake-compiler-dock', '~> 1.5.0'
